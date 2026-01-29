@@ -13,3 +13,8 @@ My name is **Muhammad Farkhan**, an **Informatics Engineering** graduate. On thi
 ---
 
 ## Feel free to explore my projects! 🔍
+
+---
+<p align="center">
+  <img src="background.jpeg" width="60%" alt="Data Analysis Idea">
+</p>
