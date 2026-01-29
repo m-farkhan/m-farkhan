@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 ### Welcome to my Portfolio! 📁
 
 My name is **Muhammad Farkhan**, an **Informatics Engineering** graduate. On this GitHub, you will find my journey in Data Analysis, showcasing how I transform raw data into projects that generate meaningful business decisions.
@@ -12,11 +12,4 @@ My name is **Muhammad Farkhan**, an **Informatics Engineering** graduate. On thi
 
 ---
 
-## Feel free to explore my projects! 🔍
-
----
-<p align="center">
-  <a href="https://id.pinterest.com/pin/563018698198149/">
-    <img src="background.jpeg" width="100%" height="250" alt="Data Quote">
-  </a>
-</p>
+# Feel free to explore my projects! 🔍
