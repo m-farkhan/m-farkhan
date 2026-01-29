@@ -16,5 +16,5 @@ My name is **Muhammad Farkhan**, an **Informatics Engineering** graduate. On thi
 
 ---
 <p align="center">
-  <img src="background.jpeg" width="60%" alt="Data Analysis Idea">
+  <img src="background.jpeg" width="100%" height="250">
 </p>
