@@ -16,5 +16,7 @@ My name is **Muhammad Farkhan**, an **Informatics Engineering** graduate. On thi
 
 ---
 <p align="center">
-  <img src="background.jpeg" width="100%" height="250">
+  <a href="https://id.pinterest.com/pin/563018698198149/">
+    <img src="background.jpeg" width="100%" height="250" alt="Data Quote">
+  </a>
 </p>
