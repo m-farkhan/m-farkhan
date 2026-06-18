@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi, I'm Muhammad Farkhan 👋
 
-<!--
-**m-farkhan/m-farkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Informatics Engineering graduate passionate about turning raw data 
+into reliable systems and actionable insights. I work across the 
+data lifecycle — from designing databases and building data warehouses, 
+to analyzing data and creating dashboards for business decision-making.
 
-Here are some ideas to get you started:
+### What I Do
+- 🗄️ **Data Warehousing** — designing Star Schema, building ETL pipelines, 
+  and automating data flows with SQL
+- 🔧 **Database Administration** — managing PostgreSQL/MySQL databases, 
+  query optimization, and data integrity
+- 📊 **Data Analysis** — exploring data, building dashboards, and 
+  delivering insights using Python, Excel, and Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Project
+**[FMCG Sales Data Warehouse](https://github.com/m-farkhan/sql-data-warehouse-project)**  
+End-to-end data warehouse built with PostgreSQL using Medallion 
+Architecture — transforming 100K raw sales records into a clean 
+Star Schema with automated ETL pipeline.
+
+### Tech Stack
+`PostgreSQL` `MySQL` `Python` `Power BI` `Tableau` `Excel`
+
+### Let's Connect
+📧 muhammadfarkhan049@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/m-farkhan/)
